@@ -1,0 +1,45 @@
+1. 방어형 : 해당 턴에 방어력 150% 증가 (사용횟수 : 30)
+2. 공격형 : 해당 턴에 2번 연속 공격 가능 (사용횟수 : 30)
+3. 회복형 : 방어력의 100% 만큼 HP 회복 후 해당 턴에 상태이상 면역 추가 (사용횟수 : 30)
+
+도마뱀 몬스터
+낙타 스토리 (물)
+선인장 몬스터 (반격 특성)
+
+HP
+목마름
+
+공격력
+방어력
+치명타율
+회피율
+
+흡혈
+마비
+중독
+반격
+
+act
+act_max
+act_step
+user_hp
+user_max_hp
+user_atk
+user_dfd
+user_crt
+user_eva
+
+user_vamp
+user_para
+user_pois
+user_cout
+
+
+
+
+
+
+
+
+
+
